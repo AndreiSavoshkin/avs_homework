@@ -1,0 +1,33 @@
+Filled container:
+Container contains 30 elements.
+Average distance = 3834.83
+0: It is a bus: passengers capacity = 17, fuel capacity = 80, fuel consumption = 1.59. Max distance = 5031.45
+1: It is a car: max speed = 170, fuel capacity = 65, fuel consumption = 1.44. Max distance = 4513.89
+2: It is a truck: load capacity = 9, fuel capacity = 94, fuel consumption = 2.08. Max distance = 4519.23
+3: It is a bus: passengers capacity = 9, fuel capacity = 79, fuel consumption = 1.96. Max distance = 4030.61
+4: It is a car: max speed = 106, fuel capacity = 55, fuel consumption = 1.35. Max distance = 4074.07
+5: It is a bus: passengers capacity = 17, fuel capacity = 62, fuel consumption = 1.54. Max distance = 4025.97
+6: It is a bus: passengers capacity = 14, fuel capacity = 86, fuel consumption = 1.36. Max distance = 6323.53
+7: It is a truck: load capacity = 8, fuel capacity = 73, fuel consumption = 1.49. Max distance = 4899.33
+8: It is a bus: passengers capacity = 3, fuel capacity = 85, fuel consumption = 1.32. Max distance = 6439.39
+9: It is a car: max speed = 170, fuel capacity = 91, fuel consumption = 2.00. Max distance = 4550.00
+10: It is a truck: load capacity = 2, fuel capacity = 70, fuel consumption = 1.79. Max distance = 3910.61
+11: It is a truck: load capacity = 7, fuel capacity = 88, fuel consumption = 1.41. Max distance = 6241.14
+12: It is a car: max speed = 171, fuel capacity = 88, fuel consumption = 1.98. Max distance = 4444.44
+13: It is a bus: passengers capacity = 13, fuel capacity = 60, fuel consumption = 1.91. Max distance = 3141.36
+14: It is a bus: passengers capacity = 10, fuel capacity = 66, fuel consumption = 1.79. Max distance = 3687.15
+15: It is a bus: passengers capacity = 14, fuel capacity = 68, fuel consumption = 1.81. Max distance = 3756.91
+16: It is a car: max speed = 145, fuel capacity = 69, fuel consumption = 2.48. Max distance = 2782.26
+17: It is a car: max speed = 112, fuel capacity = 58, fuel consumption = 2.17. Max distance = 2672.81
+18: It is a bus: passengers capacity = 6, fuel capacity = 59, fuel consumption = 2.10. Max distance = 2809.52
+19: It is a bus: passengers capacity = 14, fuel capacity = 79, fuel consumption = 2.17. Max distance = 3640.55
+20: It is a car: max speed = 116, fuel capacity = 65, fuel consumption = 2.27. Max distance = 2863.44
+21: It is a car: max speed = 167, fuel capacity = 53, fuel consumption = 1.94. Max distance = 2731.96
+22: It is a bus: passengers capacity = 16, fuel capacity = 50, fuel consumption = 2.18. Max distance = 2293.58
+23: It is a truck: load capacity = 4, fuel capacity = 53, fuel consumption = 2.32. Max distance = 2284.48
+24: It is a car: max speed = 130, fuel capacity = 50, fuel consumption = 2.43. Max distance = 2057.61
+25: It is a bus: passengers capacity = 9, fuel capacity = 67, fuel consumption = 2.15. Max distance = 3116.28
+26: It is a car: max speed = 112, fuel capacity = 50, fuel consumption = 1.70. Max distance = 2941.18
+27: It is a car: max speed = 131, fuel capacity = 91, fuel consumption = 2.40. Max distance = 3791.67
+28: It is a bus: passengers capacity = 17, fuel capacity = 70, fuel consumption = 1.85. Max distance = 3783.78
+29: It is a bus: passengers capacity = 8, fuel capacity = 80, fuel consumption = 2.17. Max distance = 3686.64

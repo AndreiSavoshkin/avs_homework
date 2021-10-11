@@ -1,0 +1,13 @@
+Filled container:
+Container contains 10 elements.
+Average distance = 2102.72
+0: It is a truck: load capacity = 5, fuel capacity = 120, fuel consumption = 4.10. Max distance = 2926.83
+1: It is a bus: passengers capacity = 32, fuel capacity = 150, fuel consumption = 5.90. Max distance = 2542.37
+2: It is a truck: load capacity = 6, fuel capacity = 170, fuel consumption = 4.10. Max distance = 4146.34
+3: It is a bus: passengers capacity = 8, fuel capacity = 120, fuel consumption = 5.30. Max distance = 2264.15
+4: It is a car: max speed = 155, fuel capacity = 110, fuel consumption = 6.50. Max distance = 1692.31
+5: It is a bus: passengers capacity = 16, fuel capacity = 100, fuel consumption = 5.70. Max distance = 1754.39
+6: It is a truck: load capacity = 4, fuel capacity = 90, fuel consumption = 8.20. Max distance = 1097.56
+7: It is a truck: load capacity = 4, fuel capacity = 90, fuel consumption = 8.00. Max distance = 1125.00
+8: It is a car: max speed = 180, fuel capacity = 140, fuel consumption = 6.90. Max distance = 2028.99
+9: It is a car: max speed = 150, fuel capacity = 100, fuel consumption = 6.90. Max distance = 1449.28
